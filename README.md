@@ -99,6 +99,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://portal.tutorialsdojo.com/black-friday-sale/
 
+
+### 📓 [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD?offer_code=black-friday) - This course is for web development beginners, looking to learn how to create and launch WordPress websites. 
+
+#### 💰 80%
+
+#### 🔗 https://nmiletic.gumroad.com/l/kSrqD?offer_code=black-friday
+
 -----
 
 ## WP Plugins
