@@ -79,6 +79,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## Courses, books learning
 
+### 📓 [Gumroad - Building Websites with Wordpress] - This course is for web development beginners, looking to learn how to create and launch WordPress websites. 
+
+#### 💰 80%
+
+#### 🔗 https://gumroad.com/l/kSrqD?offer_code=black-friday
+
 ### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Premium tutorials courses in Vue.js and modern, cutting-edge front-end technologies taught by team members and industry experts
 
 #### 💰 40%
